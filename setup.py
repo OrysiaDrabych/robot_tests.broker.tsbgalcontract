@@ -1,6 +1,6 @@
 from setuptools import setup
 
-broker_name = 'orysia'
+broker_name = 'tsbgalcontract'
 pkg_name = 'robot_tests.broker.{}'.format(broker_name)
 
 setup(name=pkg_name,
